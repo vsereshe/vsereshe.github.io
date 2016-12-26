@@ -1,0 +1,142 @@
+/*==========  Desktop First Method  ==========*/
+
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (max-width: 1599px) {}
+
+@media only screen and (max-width: 1366px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width: 992px) {
+  
+}
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (max-width: 768px) {
+
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen
+  and (min-device-width : 320px) 
+  and (max-device-width : 480px) {
+    
+}
+
+@media only screen
+  and (min-device-width : 320px) 
+  and (max-device-width : 480px) 
+  and (orientation : landscape) {
+
+}
+
+@media only screen
+  and (min-device-width : 481px) 
+  and (max-device-width : 768px) 
+  and (orientation : landscape) {
+    
+}
+
+@media only screen
+  and (min-device-width :360px) 
+  and (max-device-width : 768px) 
+  and (orientation : portrait) {
+
+}
+
+
+/* iPads (portrait) ----------- */
+@media only screen
+  and (min-device-width : 768px) 
+  and (max-device-width : 1024px) 
+  and (orientation : portrait) {
+}
+
+/* Custom, iPhone Retina */
+
+@media only screen and (max-width: 320px) {
+  
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (min-device-width : 320px){
+
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (min-width: 480px) {
+
+}
+
+@media only screen and (min-width: 600px) {}
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {
+
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (min-width: 992px) {
+
+}
+
+
+@media only screen and (max-device-width : 768px) and (min-device-width : 320px) 
+and (orientation : landscape) {
+
+}
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 1366px) {
+
+}
+
+@media only screen and (min-width: 1600px) {
+  .logo {
+    bottom: 37%;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) 
+and (orientation : landscape) {
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) 
+and (orientation : portrait) {
+
+}
